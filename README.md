@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning PHYTON
 - 💞️ I’m looking to collaborate on Multiplatform Business-Apps
-- 📫 How to reach me via mail@jonas-mahlburg.de
+- 📫 How to reach me: via mail@jonas-mahlburg.de
 - ⚡ motto: In Code we trust
 
 <!---
