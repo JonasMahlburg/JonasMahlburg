@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Jonas Mahlburg from Celle, Germany<br><br>🔭 I’m junior Frontend developer<br>👀 I’m interested in continuous learning and growth<br>🌱 I’m currently learning PHYTON, Django<br>💞️ I’m looking to become Fullstack-Developer<br>📫 How to reach me: via mail@jonas-mahlburg.de<br>⚡ motto: In Code we trust
+<p align="left">I'm Jonas Mahlburg from Celle, Germany<br><br>🔭 I’m junior Full Stack developer<br>👀 I’m interested in continuous learning and growth<br>🌱 I’m currently learning PHYTON, Django<br>💞️ I’m looking to become Fullstack-Developer<br>📫 How to reach me: via mail@jonas-mahlburg.de<br>⚡ motto: In Code we trust
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
