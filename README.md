@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Jonas Mahlburg from Celle, Germany<br><br>🔭 I’m junior Full Stack developer<br>👀 I’m interested in continuous learning and growth<br>🌱 I’m currently learning PHYTON, Django<br>💞️ I’m looking to become Fullstack-Developer<br>📫 How to reach me: via mail@jonas-mahlburg.de<br>⚡ motto: In Code we trust
+<p align="left">I'm Jonas Mahlburg from Celle, Germany<br><br>🔭 I’m junior Full Stack developer<br>👀 I’m interested in continuous learning and growth<br>🌱 I’m currently learning Swift<br>💞️ I’m looking to become a IOS Developer<br>📫 How to reach me: via mail@jonas-mahlburg.de<br>⚡ motto: In Code we trust
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -56,6 +56,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
 </div>
 
 ###
